@@ -129,6 +129,8 @@ body {
     font-size: 4rem;
     margin-bottom: 4rem;
     line-height: 4rem;
+    display: flex;
+    width: 200%; 
 }
 
 .middle-content h4 {
