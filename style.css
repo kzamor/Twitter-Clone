@@ -172,7 +172,7 @@ body {
     grid-column: 1 / -1;
     grid-row: 2 / -1;
     background-color: #f5f4f4;
-    padding: 1.5rem;
+    padding: 1.25rem;
     border-top: .1rem solid #ddd;
 }
 
@@ -183,7 +183,7 @@ body {
 }
 
 .main-page footer a {
-    font-size: 1.6rem;
+    font-size: 1.25rem;
     margin: 0 2rem;
     text-decoration: none;
     color: #444;
